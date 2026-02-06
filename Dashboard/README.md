@@ -1,6 +1,6 @@
 # 📊 Dashboard Documentation
 
-Halaman ini berisi dokumentasi visual dan akses ke dashboard interaktif untuk proyek analisis pariwisata.
+Halaman ini berisi dokumentasi visual dan akses ke dashboard interaktif untuk proyek analisis Auto MPG.
 
 ### 🔗 Link Dashboard
 Silakan klik tautan di bawah ini untuk mengakses dashboard interaktif:
